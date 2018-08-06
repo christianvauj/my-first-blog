@@ -25,7 +25,7 @@ SECRET_KEY = 'wd_2gifkz$uy-srg%gj7p96ix9j+v0qr^7bb##t#ne7li2t50@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'christian.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'christianvauj.pythonanywhere.com']
 
 
 # Application definition
